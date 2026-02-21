@@ -2,7 +2,7 @@
 
 ## Intro 
 
-This project helps to install nginx on linux and then how a demo page
+This project helps to install nginx on linux and then for a demo page
 
 ## Steps for start nginx
 
