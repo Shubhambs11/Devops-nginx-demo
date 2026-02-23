@@ -1,14 +1,13 @@
 # DevOps Nginx Test
 
 ## Intro 
+This project helps to install nginx on linux and Docker Container
 
-This project helps to install nginx on linux and then for a demo page
+## Steps to start :
 
-## Steps for start nginx
+### Create index.html inside /var/www/html it shows test website. 
+### for execute command : 
+```./install_nginx.sh```
 
-sudo apt-get update 
-sudo apt-get install nginx
-
-sudo systemctl start nginx
-sudo systemctl enable nginx
+### Created Dockerfile, after build an image and run container shows my portfolio website.
 
